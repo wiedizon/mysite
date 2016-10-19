@@ -1,2 +1,3 @@
 # mysite
-Personal Website
+Initial development efforts for my personal website. 
+
